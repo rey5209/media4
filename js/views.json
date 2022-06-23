@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "TODAY | Season 2 | June 21, 2022 ",
+    "tittle" : "International | Season 2 | June 23, 2022 ",
     "subTittle" : "youtube",
     "subTittleColor" : "red",
     "subTittleType" : "icon",
@@ -17,14 +17,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Batangas City",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Iriga City, Camarines Sur",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Sta. Rosa, Nueva Ecija",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Nagoyo",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Italy South",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Northwest California",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Southern Ontario",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
 
       {"lokal":" ",   "divider":true  ,   "divider_title":"CFO Vision"  ,  "color":"#42d4f5",    "duration":"25:0",  "link":" ", "image":" ",        "views":  0},
      
       
-      {"lokal":"Metro Manila East",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"New York",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
 
       
       
@@ -34,7 +35,7 @@
     },
     {
     "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "TODAY | Season 2 | June 21, 2022 ",
+      "tittle" : "International | Season 2 | June 23, 2022 ",
       "subTittle" : "facebook",
     "subTittleColor" : "#1c4ee3",
     "subTittleType" : "icon",
@@ -48,15 +49,16 @@
         "first_header_color":"#000",
         "first_header_title":"Featured Districts",
       "viewData" : [
-        {"lokal":"Batangas City",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Iriga City, Camarines Sur",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Sta. Rosa, Nueva Ecija",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Nagoyo",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Italy South",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Northwest California",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Southern Ontario",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
           
           
           {"lokal":" ",   "divider":true  ,   "divider_title":"CFO Vision"  ,  "color":"#42d4f5",    "duration":"25:0",  "link":" ", "image":" ",        "views":  0},
      
       
-      {"lokal":"Metro Manila East",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
+      {"lokal":"New York",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
           
           
         ] 
