@@ -3,66 +3,55 @@
     {
     "banner" : "ezgif.com-gif-maker.gif",
     "tittle" : "International | Season 2 | June 23, 2022 ",
-    "subTittle" : "youtube",
+    "subTittle" : "",
     "subTittleColor" : "red",
-    "subTittleType" : "icon",
+    "subTittleType" : "text",
     "image" : "INC-Central-Temple-2.jpg",
-    "link" : "https://youtu.be/AL78ab91iXA", 
+    "link" : "https://www.youtube.com", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
     "redirectPage": true,
-    "page" : "watch2",
-    "redirect_text":"Sending view from youtube",
-    "first_header_color":"#000",
+    "page" : "watch2", 
+    "allow_popup_option":true,
+    "popup_option":[  
+      { 
+        "page" : "watch2", 
+        "subTittle" : "",
+        "subTittleIcon" : "youtube",
+        "subTittleColor" : "red",
+        "subTittleType" : "icon",
+        "redirect_text":"Sending view from youtube",
+        "link" : "https://youtu.be/AL78ab91iXA"
+      },
+      { 
+        "page" : "watch", 
+        "subTittle" : "",
+        "subTittleIcon" : "facebook",
+        "subTittleColor" : "#1c4ee3",
+        "subTittleType" : "icon",
+        "redirect_text":"Sending view from facebook",
+        "link" : "https://facebook.com/events/s/cfo-today-international-june-2/319383517077845/"
+      }
+
+    ],
+
+    "redirect_text":"Sending view from facebook",
+    "first_header_color":"#fff",
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Nagoya",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Italy South",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Northwest California",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-      {"lokal":"Southern Ontario",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
-
-      {"lokal":" ",   "divider":true  ,   "divider_title":"CFO Vision"  ,  "color":"#42d4f5",    "duration":"25:0",  "link":" ", "image":" ",        "views":  0},
-     
+      {"lokal":"Nagoya",             "duration":"25:0",  "link":"", "image":"33.jpg",        "views":  0},
+      {"lokal":"Italy South",                           "duration":"25:0",  "link":"", "image":"33.jpg",        "views":  0},
+      {"lokal":"Northwest California",      "duration":"25:0",  "link":"", "image":"33.jpg",        "views":  0},
+      {"lokal":"Southern Ontario",      "duration":"25:0",  "link":"", "image":"33.jpg",        "views":  0},
+  
       
-      {"lokal":"New York",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
-
+      {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+        
+      {"lokal":"New York",             "duration":"25:0",  "link":"", "image":"33.jpg",        "views":  0}
       
-      
-       
-     
       ] 
-    },
-    {
-    "banner" : "ezgif.com-gif-maker.gif",
-      "tittle" : "International | Season 2 | June 23, 2022 ",
-      "subTittle" : "facebook",
-    "subTittleColor" : "#1c4ee3",
-    "subTittleType" : "icon",
-      "image" : "Untitled.jpg",
-      "link" : "https://facebook.com/events/s/cfo-today-international-june-2/319383517077845/", 
-      "different_link_per_data" : false,
-      "different_img_per_data" : true,
-      "redirectPage": true,
-      "page" : "watch",
-      "redirect_text":"Sending view from facebook",
-        "first_header_color":"#000",
-        "first_header_title":"Featured Districts",
-      "viewData" : [
-        {"lokal":"Nagoya",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Italy South",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Northwest California",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-        {"lokal":"Southern Ontario",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
-          
-          
-          {"lokal":" ",   "divider":true  ,   "divider_title":"CFO Vision"  ,  "color":"#42d4f5",    "duration":"25:0",  "link":" ", "image":" ",        "views":  0},
-     
-      
-      {"lokal":"New York",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0}
-          
-          
-        ] 
-      }
+    } 
       
 
   ]
