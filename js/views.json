@@ -17,7 +17,7 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Nagoya, Japan",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
+      {"lokal":"Nagoya",             "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
       {"lokal":"Italy South",                           "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
       {"lokal":"Northwest California",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
       {"lokal":"Southern Ontario",                     "duration":"25:0",  "link":"https://www.facebook.com/events/3076896365959099/", "image":"22.jpg",        "views":  0},
@@ -49,7 +49,7 @@
         "first_header_color":"#000",
         "first_header_title":"Featured Districts",
       "viewData" : [
-        {"lokal":"Nagoya, Japan",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
+        {"lokal":"Nagoya",           "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Italy South",                         "duration":"25:0",  "link":"https://www.youtube.com/watch?v=YnnHJkv12VY",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Northwest California",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
         {"lokal":"Southern Ontario",              "duration":"25:0",  "link":"https://www.youtube.com/watch?v=sWrvccHhntk",  "image":"22.jpg",                  "views":  0},
