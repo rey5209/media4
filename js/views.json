@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "ezgif.com-gif-maker.gif",
-    "tittle" : "International | Season 2 | June 23, 2022 ",
+    "tittle" : "International | Season 2 | June 30, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://youtu.be/AL78ab91iXA"
+        "link" : "https://www.youtube.com/watch?v=ho46KsaRSQw"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://facebook.com/events/s/cfo-today-international-june-2/319383517077845/"
+        "link" : "https://fb.me/e/3sb208KWQ"
       }
 
     ],
@@ -40,15 +40,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Nagoya",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Italy South",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Southern Africa",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Calgary",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       {"lokal":"Northwest California",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Southern Ontario",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Northern Midwest",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"New York",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"New Zealand",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
