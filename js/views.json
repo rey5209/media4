@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-international.gif",
-    "tittle" : "International | Season 2 | July 14, 2022 ",
+    "tittle" : "International | Season 2 | July 21, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -21,7 +21,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=6TLAaSNmVX4"
+        "link" : "https://www.youtube.com/watch?v=9Wwamo9RQms"
       },
       { 
         "page" : "watch", 
@@ -30,7 +30,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/391963919585880/"
+        "link" : "https://fb.me/e/2HptdvYTV"
       }
 
     ],
@@ -40,15 +40,15 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Hong Kong",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Thailand",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Italy North",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Mountain States",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Macao",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Caribbean",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Virginia",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Western Europe",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":true , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
-      {"lokal":"Sabah",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
+      {"lokal":"Southern Europe",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
       ] 
     } 
