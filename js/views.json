@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-international.gif",
-    "tittle" : "International | Season 2 | September 22, 2022 ",
+    "tittle" : "International | Season 2 | September 29, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -23,7 +23,7 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=LdZSRDGi8_w",
+        "link" : "https://www.youtube.com/watch?v=NQXMenJugO8",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,7 +34,7 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/1097486680904890/",
+        "link" : "https://www.facebook.com/events/637817151185094/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -46,10 +46,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Washington State",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Florida",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Ottawa",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Virginia",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Calgary",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Edmonton",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Italy South",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Caribbean",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
   
       
       {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
