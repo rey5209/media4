@@ -2,11 +2,12 @@
   "jsonData" : [
     {
     "banner" : "cfo-international.gif",
-    "tittle" : "International | I'm Here Today |  November 10, 2022 ",
+    "tittle" : "International | Career Mode | November 17, 2022 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
     "image" : "INC-Central-Temple-2.jpg",
+    "embed_link" : false, 
     "link" : "https://www.youtube.com", 
     "different_link_per_data" : false,
     "different_img_per_data" : true,
@@ -23,7 +24,8 @@
         "subTittleColor" : "red",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
-        "link" : "https://www.youtube.com/watch?v=GC0k0EpInUw",
+        "embed_link" : true,
+        "link" : "8qAqfGunKV4",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -34,8 +36,9 @@
         "subTittleColor" : "#1c4ee3",
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
-        "link" : "https://www.facebook.com/events/682268406560387/",
-        "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
+        "embed_link" : false,
+        "link" : "https://www.facebook.com/events/1110851009801369/",
+        "gtag":"https://www.facebook.com/events/1326774104729426/",
         "gtag_id" :"G-JZXEWLBT33"  
       }
 
@@ -46,13 +49,12 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"British Columbia",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Qatar",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Northwest California",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"Macau",      "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-  
+      {"lokal":"L.A. County, California",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"New Jersey",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Oregon",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Tokyo, Japan",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
-      {"lokal":" ",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
+      {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
       {"lokal":"",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0}
       
