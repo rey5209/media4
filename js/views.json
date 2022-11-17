@@ -37,8 +37,8 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://www.facebook.com/events/1110851009801369/",
-        "gtag":"https://www.facebook.com/events/1326774104729426/",
+        "link" : "https://www.facebook.com/events/1326774104729426/",
+        "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
 
