@@ -2,7 +2,7 @@
   "jsonData" : [
     {
     "banner" : "cfo-international.gif",
-    "tittle" : "International | Do It Today | January 22, 2023 ",
+    "tittle" : "International | Do It Today | January 19, 2023 ",
     "subTittle" : "",
     "subTittleColor" : "red",
     "subTittleType" : "text",
@@ -25,7 +25,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from youtube",
         "embed_link" : true,
-        "link" : "t5gHpZvpnmE",
+        "link" : "HPaQIVUAPgo",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-F5L1BDXPZJ",
         "gtag_id" :"G-F5L1BDXPZJ"  
       },
@@ -37,7 +37,7 @@
         "subTittleType" : "icon",
         "redirect_text":"Sending view from facebook",
         "embed_link" : false,
-        "link" : "https://www.facebook.com/events/716589373251180/",
+        "link" : "https://www.facebook.com/events/917760949237190/",
         "gtag":"https://www.googletagmanager.com/gtag/js?id=G-JZXEWLBT33",
         "gtag_id" :"G-JZXEWLBT33"  
       }
@@ -49,9 +49,10 @@
     "first_header_title":"Featured Districts",
     "viewData" : [
        
-      {"lokal":"Macau",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-      {"lokal":"San Diego County, California",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
-        {"lokal":"Carribean",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Nagoya, Japan",             "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+      {"lokal":"Hong Kong",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Mediterrean",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
+        {"lokal":"Malaysia",                           "duration":"25:0",  "link":"", "image":"22.jpg",        "views":  0},
       
       {"lokal":"",         "divider":false , "divider_title":"CFO Vision", "color":"#42d4f5" , "bg":"#232129"},
         
